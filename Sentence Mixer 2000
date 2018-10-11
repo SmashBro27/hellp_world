@@ -1,0 +1,8 @@
+alert("Welcome to Sentence Mixer 2000! Press 'Confirm' to continue"); 
+var a = prompt("Write a word");
+var b = prompt("Write a different word"); 
+var c = prompt("Write a different word"); 
+var d = prompt("Write a different word"); 
+var e = prompt("Write a different word (Sorry if this is getting repetitive)"); 
+var f = prompt("Final word, I promise"); 
+alert("Your sentence is: "+d+" "+a+" "+c+" "+e+" "+f+" "+c+" "+b+"!")
